@@ -1,0 +1,139 @@
+[2022-10-14 12:04:42,285]:[sdmx_istat]:[<module>]:[INFO]: **** START ****
+[2022-10-14 12:30:20,854]:[sdmx_istat]:[<module>]:[INFO]: **** FASE DOWNLOAD ****
+[2022-10-14 12:30:20,873]:[sdmx_istat]:[<module>]:[INFO]: ______________Veicoli  coinvolti in incidenti stradali______________
+[2022-10-14 12:30:20,874]:[sdmx_istat]:[<module>]:[INFO]: ________________________________________________________
+[2022-10-14 12:30:20,875]:[sdmx_istat]:[<module>]:[INFO]: Controllo constraint in corso
+[2022-10-14 12:30:21,211]:[sdmx_istat]:[<module>]:[ERROR]: syntax error: line 1, column 0
+[2022-10-14 12:30:35,520]:[sdmx_istat]:[<module>]:[INFO]: **** FASE DOWNLOAD ****
+[2022-10-14 12:30:35,557]:[sdmx_istat]:[<module>]:[INFO]: ______________Incidenti  stradali con lesioni alle persone______________
+[2022-10-14 12:30:35,557]:[sdmx_istat]:[<module>]:[INFO]: ________________________________________________________
+[2022-10-14 12:30:35,558]:[sdmx_istat]:[<module>]:[INFO]: Controllo constraint in corso
+[2022-10-14 12:30:35,577]:[sdmx_istat]:[<module>]:[INFO]: livello geografico minimo: Provinciale.  download in corso  
+[2022-10-14 12:30:35,581]:[sdmx_istat]:[<module>]:[ERROR]: name 'down_dir' is not defined
+[2022-10-14 12:30:35,611]:[sdmx_istat]:[<module>]:[INFO]: ______________Macellazioni______________
+[2022-10-14 12:30:35,614]:[sdmx_istat]:[<module>]:[INFO]: ________________________________________________________
+[2022-10-14 12:30:35,616]:[sdmx_istat]:[<module>]:[INFO]: Controllo constraint in corso
+[2022-10-14 12:30:35,623]:[sdmx_istat]:[<module>]:[INFO]: livello geografico: Regionale.  non verrà eseguito il download
+[2022-10-14 12:30:35,663]:[sdmx_istat]:[<module>]:[INFO]: ______________Indice del valore delle vendite del commercio fisso al dettaglio - dati mensili______________
+[2022-10-14 12:30:35,667]:[sdmx_istat]:[<module>]:[INFO]: ________________________________________________________
+[2022-10-14 12:30:35,668]:[sdmx_istat]:[<module>]:[INFO]: Controllo constraint in corso
+[2022-10-14 12:30:35,688]:[sdmx_istat]:[<module>]:[INFO]: livello geografico: Nazionale.  non verrà eseguito il download
+[2022-10-14 12:30:35,755]:[sdmx_istat]:[<module>]:[INFO]: ______________Indice della produzione industriale______________
+[2022-10-14 12:30:35,757]:[sdmx_istat]:[<module>]:[INFO]: ________________________________________________________
+[2022-10-14 12:30:35,758]:[sdmx_istat]:[<module>]:[INFO]: Controllo constraint in corso
+[2022-10-14 12:30:35,778]:[sdmx_istat]:[<module>]:[INFO]: livello geografico: Nazionale.  non verrà eseguito il download
+[2022-10-14 12:30:35,819]:[sdmx_istat]:[<module>]:[INFO]: ______________Capacità degli esercizi ricettivi e Movimento dei clienti negli esercizi ricettivi______________
+[2022-10-14 12:30:35,820]:[sdmx_istat]:[<module>]:[INFO]: ________________________________________________________
+[2022-10-14 12:30:35,821]:[sdmx_istat]:[<module>]:[INFO]: Controllo constraint in corso
+[2022-10-14 12:30:35,927]:[sdmx_istat]:[<module>]:[INFO]: livello geografico minimo: Comunale.  download in corso  
+[2022-10-14 12:30:35,931]:[sdmx_istat]:[<module>]:[ERROR]: name 'down_dir' is not defined
+[2022-10-14 12:30:35,934]:[sdmx_istat]:[<module>]:[ERROR]: name 'down_dir' is not defined
+[2022-10-14 12:30:35,936]:[sdmx_istat]:[<module>]:[ERROR]: name 'down_dir' is not defined
+[2022-10-14 12:30:35,937]:[sdmx_istat]:[<module>]:[ERROR]: name 'down_dir' is not defined
+[2022-10-14 12:30:35,939]:[sdmx_istat]:[<module>]:[ERROR]: name 'down_dir' is not defined
+[2022-10-14 12:30:35,939]:[sdmx_istat]:[<module>]:[ERROR]: name 'down_dir' is not defined
+[2022-10-14 12:30:35,940]:[sdmx_istat]:[<module>]:[ERROR]: name 'down_dir' is not defined
+[2022-10-14 12:30:35,941]:[sdmx_istat]:[<module>]:[ERROR]: name 'down_dir' is not defined
+[2022-10-14 12:30:35,941]:[sdmx_istat]:[<module>]:[ERROR]: name 'down_dir' is not defined
+[2022-10-14 12:30:35,942]:[sdmx_istat]:[<module>]:[ERROR]: name 'down_dir' is not defined
+[2022-10-14 12:30:35,950]:[sdmx_istat]:[<module>]:[ERROR]: name 'down_dir' is not defined
+[2022-10-14 12:30:35,951]:[sdmx_istat]:[<module>]:[ERROR]: name 'down_dir' is not defined
+[2022-10-14 12:30:35,952]:[sdmx_istat]:[<module>]:[ERROR]: name 'down_dir' is not defined
+[2022-10-14 12:30:35,953]:[sdmx_istat]:[<module>]:[ERROR]: name 'down_dir' is not defined
+[2022-10-14 12:30:35,954]:[sdmx_istat]:[<module>]:[ERROR]: name 'down_dir' is not defined
+[2022-10-14 12:30:35,955]:[sdmx_istat]:[<module>]:[ERROR]: name 'down_dir' is not defined
+[2022-10-14 12:30:35,955]:[sdmx_istat]:[<module>]:[ERROR]: name 'down_dir' is not defined
+[2022-10-14 12:30:35,956]:[sdmx_istat]:[<module>]:[ERROR]: name 'down_dir' is not defined
+[2022-10-14 12:30:35,956]:[sdmx_istat]:[<module>]:[ERROR]: name 'down_dir' is not defined
+[2022-10-14 12:30:35,957]:[sdmx_istat]:[<module>]:[ERROR]: name 'down_dir' is not defined
+[2022-10-14 12:30:35,957]:[sdmx_istat]:[<module>]:[ERROR]: name 'down_dir' is not defined
+[2022-10-14 12:30:35,958]:[sdmx_istat]:[<module>]:[ERROR]: name 'down_dir' is not defined
+[2022-10-14 12:30:35,960]:[sdmx_istat]:[<module>]:[ERROR]: name 'down_dir' is not defined
+[2022-10-14 12:30:36,001]:[sdmx_istat]:[<module>]:[INFO]: ______________Trasporto aereo______________
+[2022-10-14 12:30:36,001]:[sdmx_istat]:[<module>]:[INFO]: ________________________________________________________
+[2022-10-14 12:30:36,003]:[sdmx_istat]:[<module>]:[INFO]: Controllo constraint in corso
+[2022-10-14 12:30:36,012]:[sdmx_istat]:[<module>]:[INFO]: livello geografico: Nazionale.  non verrà eseguito il download
+[2022-10-14 12:30:36,046]:[sdmx_istat]:[<module>]:[INFO]: ______________Indicatori  permessi di costruire______________
+[2022-10-14 12:30:36,050]:[sdmx_istat]:[<module>]:[INFO]: ________________________________________________________
+[2022-10-14 12:30:36,051]:[sdmx_istat]:[<module>]:[INFO]: Controllo constraint in corso
+[2022-10-14 12:30:36,063]:[sdmx_istat]:[<module>]:[INFO]: livello geografico: Nazionale.  non verrà eseguito il download
+[2022-10-14 12:30:36,101]:[sdmx_istat]:[<module>]:[INFO]: ______________Famiglie con pagamaneti arretrati______________
+[2022-10-14 12:30:36,102]:[sdmx_istat]:[<module>]:[INFO]: ________________________________________________________
+[2022-10-14 12:30:36,102]:[sdmx_istat]:[<module>]:[INFO]: Controllo constraint in corso
+[2022-10-14 12:30:36,116]:[sdmx_istat]:[<module>]:[INFO]: livello geografico: Areale.  non verrà eseguito il download
+[2022-10-14 12:30:36,162]:[sdmx_istat]:[<module>]:[INFO]: ______________Famiglie che non riescono  a risparmiare o a far fronte a spese impreviste______________
+[2022-10-14 12:30:36,165]:[sdmx_istat]:[<module>]:[INFO]: ________________________________________________________
+[2022-10-14 12:30:36,168]:[sdmx_istat]:[<module>]:[INFO]: Controllo constraint in corso
+[2022-10-14 12:30:36,181]:[sdmx_istat]:[<module>]:[INFO]: livello geografico: Regionale.  non verrà eseguito il download
+[2022-10-14 12:30:36,211]:[sdmx_istat]:[<module>]:[INFO]: ______________Problemi nell'abitazione______________
+[2022-10-14 12:30:36,215]:[sdmx_istat]:[<module>]:[INFO]: ________________________________________________________
+[2022-10-14 12:30:36,215]:[sdmx_istat]:[<module>]:[INFO]: Controllo constraint in corso
+[2022-10-14 12:30:36,225]:[sdmx_istat]:[<module>]:[INFO]: livello geografico: Regionale.  non verrà eseguito il download
+[2022-10-14 12:30:36,274]:[sdmx_istat]:[<module>]:[INFO]: ______________Titolo di godimento dell'abitazione______________
+[2022-10-14 12:30:36,275]:[sdmx_istat]:[<module>]:[INFO]: ________________________________________________________
+[2022-10-14 12:30:36,276]:[sdmx_istat]:[<module>]:[INFO]: Controllo constraint in corso
+[2022-10-14 12:30:36,299]:[sdmx_istat]:[<module>]:[INFO]: livello geografico: Regionale.  non verrà eseguito il download
+[2022-10-14 12:30:36,433]:[sdmx_istat]:[<module>]:[INFO]: ______________Presenza di problemi nella zona di residenza delle famiglie______________
+[2022-10-14 12:30:36,434]:[sdmx_istat]:[<module>]:[INFO]: ________________________________________________________
+[2022-10-14 12:30:36,434]:[sdmx_istat]:[<module>]:[INFO]: Controllo constraint in corso
+[2022-10-14 12:30:36,445]:[sdmx_istat]:[<module>]:[INFO]: livello geografico: Regionale.  non verrà eseguito il download
+[2022-10-14 12:30:36,474]:[sdmx_istat]:[<module>]:[INFO]: ______________Famiglie che considerano un carico pesante alcune spese per l'abitazione o il rimborso di debiti______________
+[2022-10-14 12:30:36,475]:[sdmx_istat]:[<module>]:[INFO]: ________________________________________________________
+[2022-10-14 12:30:36,476]:[sdmx_istat]:[<module>]:[INFO]: Controllo constraint in corso
+[2022-10-14 12:30:36,491]:[sdmx_istat]:[<module>]:[INFO]: livello geografico: Areale.  non verrà eseguito il download
+[2022-10-14 12:30:36,529]:[sdmx_istat]:[<module>]:[INFO]: ______________Giudizio sulla condizione economica percepita______________
+[2022-10-14 12:30:36,531]:[sdmx_istat]:[<module>]:[INFO]: ________________________________________________________
+[2022-10-14 12:30:36,532]:[sdmx_istat]:[<module>]:[INFO]: Controllo constraint in corso
+[2022-10-14 12:30:36,549]:[sdmx_istat]:[<module>]:[INFO]: livello geografico: Regionale.  non verrà eseguito il download
+[2022-10-14 12:30:36,596]:[sdmx_istat]:[<module>]:[INFO]: ______________Famiglie che non possono permettersi alcune voci di spesa______________
+[2022-10-14 12:30:36,599]:[sdmx_istat]:[<module>]:[INFO]: ________________________________________________________
+[2022-10-14 12:30:36,601]:[sdmx_istat]:[<module>]:[INFO]: Controllo constraint in corso
+[2022-10-14 12:30:36,625]:[sdmx_istat]:[<module>]:[INFO]: livello geografico: Areale.  non verrà eseguito il download
+[2022-10-14 12:30:36,702]:[sdmx_istat]:[<module>]:[INFO]: ______________Giudizio sul reddito minimo per arrivare a fine mese senza difficoltà______________
+[2022-10-14 12:30:36,703]:[sdmx_istat]:[<module>]:[INFO]: ________________________________________________________
+[2022-10-14 12:30:36,704]:[sdmx_istat]:[<module>]:[INFO]: Controllo constraint in corso
+[2022-10-14 12:30:36,722]:[sdmx_istat]:[<module>]:[INFO]: livello geografico: Areale.  non verrà eseguito il download
+[2022-10-14 12:30:36,763]:[sdmx_istat]:[<module>]:[INFO]: ______________Famiglie che non possono permettersi alcuni beni durevoli______________
+[2022-10-14 12:30:36,765]:[sdmx_istat]:[<module>]:[INFO]: ________________________________________________________
+[2022-10-14 12:30:36,768]:[sdmx_istat]:[<module>]:[INFO]: Controllo constraint in corso
+[2022-10-14 12:30:36,782]:[sdmx_istat]:[<module>]:[INFO]: livello geografico: Areale.  non verrà eseguito il download
+[2022-10-14 12:30:36,859]:[sdmx_istat]:[<module>]:[INFO]: ______________Famiglie che hanno  difficoltà nel pagamento di alcune spese______________
+[2022-10-14 12:30:36,861]:[sdmx_istat]:[<module>]:[INFO]: ________________________________________________________
+[2022-10-14 12:30:36,864]:[sdmx_istat]:[<module>]:[INFO]: Controllo constraint in corso
+[2022-10-14 12:30:36,890]:[sdmx_istat]:[<module>]:[INFO]: livello geografico: Areale.  non verrà eseguito il download
+[2022-10-14 12:30:36,950]:[sdmx_istat]:[<module>]:[INFO]: ______________Indicatori sulla distribuzione reddito netto familiare______________
+[2022-10-14 12:30:36,952]:[sdmx_istat]:[<module>]:[INFO]: ________________________________________________________
+[2022-10-14 12:30:36,953]:[sdmx_istat]:[<module>]:[INFO]: Controllo constraint in corso
+[2022-10-14 12:30:36,970]:[sdmx_istat]:[<module>]:[INFO]: livello geografico: Regionale.  non verrà eseguito il download
+[2022-10-14 12:30:37,017]:[sdmx_istat]:[<module>]:[INFO]: ______________Fonte principale di reddito familiare______________
+[2022-10-14 12:30:37,018]:[sdmx_istat]:[<module>]:[INFO]: ________________________________________________________
+[2022-10-14 12:30:37,019]:[sdmx_istat]:[<module>]:[INFO]: Controllo constraint in corso
+[2022-10-14 12:30:37,029]:[sdmx_istat]:[<module>]:[INFO]: livello geografico: Regionale.  non verrà eseguito il download
+[2022-10-14 12:30:37,065]:[sdmx_istat]:[<module>]:[INFO]: ______________Trasporto marittimo______________
+[2022-10-14 12:30:37,065]:[sdmx_istat]:[<module>]:[INFO]: ________________________________________________________
+[2022-10-14 12:30:37,066]:[sdmx_istat]:[<module>]:[INFO]: Controllo constraint in corso
+[2022-10-14 12:30:37,075]:[sdmx_istat]:[<module>]:[INFO]: livello geografico: Regionale.  non verrà eseguito il download
+[2022-10-14 12:30:37,120]:[sdmx_istat]:[<module>]:[INFO]: ______________Unità locali e addetti______________
+[2022-10-14 12:30:37,121]:[sdmx_istat]:[<module>]:[INFO]: ________________________________________________________
+[2022-10-14 12:30:37,123]:[sdmx_istat]:[<module>]:[INFO]: Controllo constraint in corso
+[2022-10-14 12:30:37,345]:[sdmx_istat]:[<module>]:[INFO]: livello geografico minimo: Comunale.  download in corso  
+[2022-10-14 12:30:37,346]:[sdmx_istat]:[<module>]:[ERROR]: name 'down_dir' is not defined
+[2022-10-14 12:30:37,378]:[sdmx_istat]:[<module>]:[INFO]: ______________Affollamento nell'abitazione______________
+[2022-10-14 12:30:37,379]:[sdmx_istat]:[<module>]:[INFO]: ________________________________________________________
+[2022-10-14 12:30:37,380]:[sdmx_istat]:[<module>]:[INFO]: Controllo constraint in corso
+[2022-10-14 12:30:37,398]:[sdmx_istat]:[<module>]:[INFO]: livello geografico: Regionale.  non verrà eseguito il download
+[2022-10-14 12:30:37,435]:[sdmx_istat]:[<module>]:[INFO]: ______________Spesa per l'abitazione______________
+[2022-10-14 12:30:37,435]:[sdmx_istat]:[<module>]:[INFO]: ________________________________________________________
+[2022-10-14 12:30:37,436]:[sdmx_istat]:[<module>]:[INFO]: Controllo constraint in corso
+[2022-10-14 12:30:37,454]:[sdmx_istat]:[<module>]:[INFO]: livello geografico: Regionale.  non verrà eseguito il download
+[2022-10-14 12:30:37,488]:[sdmx_istat]:[<module>]:[INFO]: ______________Reddito  netto familiare______________
+[2022-10-14 12:30:37,488]:[sdmx_istat]:[<module>]:[INFO]: ________________________________________________________
+[2022-10-14 12:30:37,489]:[sdmx_istat]:[<module>]:[INFO]: Controllo constraint in corso
+[2022-10-14 12:30:37,508]:[sdmx_istat]:[<module>]:[INFO]: livello geografico: Regionale.  non verrà eseguito il download
+[2022-10-14 12:30:37,545]:[sdmx_istat]:[<module>]:[INFO]: ______________Quinto di reddito equivalente______________
+[2022-10-14 12:30:37,548]:[sdmx_istat]:[<module>]:[INFO]: ________________________________________________________
+[2022-10-14 12:30:37,551]:[sdmx_istat]:[<module>]:[INFO]: Controllo constraint in corso
+[2022-10-14 12:30:37,566]:[sdmx_istat]:[<module>]:[INFO]: livello geografico: Regionale.  non verrà eseguito il download
+[2022-10-14 12:30:37,600]:[sdmx_istat]:[<module>]:[INFO]: *** stop***
+[2022-12-19 18:48:01,809]:[sdmx_istat]:[<module>]:[INFO]: **** START ****
+[2022-12-19 18:49:42,546]:[sdmx_istat]:[<module>]:[INFO]: **** START ****

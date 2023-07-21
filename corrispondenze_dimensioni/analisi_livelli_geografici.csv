@@ -1,0 +1,465 @@
+FLOW;TITOLO;GEO
+6_20;Ricerca e Sviluppo;Regionale
+6_39;ICT nelle imprese con almeno 10 addetti;Regionale
+6_471;Innovazione nelle imprese con almeno 10 addetti;Regionale
+6_64;Clima di fiducia delle imprese;Nazionale
+161_267;Risultati economici delle imprese;Nazionale
+161_268;Risultati economici delle imprese - reg.;Regionale
+161_297;Statistiche nazionali sulla struttura delle imprese (dati sino al 2007);Nazionale
+161_81;Statistiche regionali sulla struttura delle imprese (dati sino al 2007);Regionale
+183_203;Imprese - occupati;Provinciale
+183_207;Imprese - lavoratori esterni per compensi percepiti e periodo di attività;Provinciale
+183_208;Imprese - lavoratori esterni;Provinciale
+183_275;Imprese - lavoratori indipendenti;Provinciale
+183_276;Imprese - lavoratori temporanei;Provinciale
+183_277;Imprese e addetti;Provinciale
+183_285;Unità locali e addetti;Comunale
+183_286;Imprese - lavoratori dipendenti;Provinciale
+183_332;Unità locali - lavoratori dipendenti;Provinciale
+183_336;Imprese - lavoratori dipendenti beneficiari di sgravi contributivi;Regionale
+183_464;Imprese - occupati per titolo di studio;Regionale
+9_951;Cave e miniere;Regionale
+12_323;Impianti di depurazione delle acque reflue urbane;Regionale
+12_340;Prelievo di acqua per uso potabile;Regionale
+12_60;Distribuzione di acqua potabile;Comunale
+18_154;Produzione lorda di energia elettrica da fonti rinnovabili;Nazionale
+18_157;Bilancio energetico;Nazionale
+18_635;Consumi energetici delle famiglie;Regionale
+609_363;Verde e altri dati ambientali;Nazionale
+14_121;Trasporto pubblico;Regionale
+14_122;Verde urbano - dati fino al 2009;Regionale
+14_166;Interventi di bonifica del rumore;Regionale
+14_167;Inquinamento acustico;Regionale
+610_119;Trasporto privato;Nazionale
+22_289;Popolazione residente al 1� Gennaio;Comunale
+22_293;Indicatori demografici;Provinciale
+22_315;Popolazione residente - bilancio;Comunale
+24_186;Matrimoni;Comunale
+24_386;Caratteristiche professionali e territoriali degli sposi;Areale
+24_446;Cittadinanza degli sposi;Provinciale
+24_447;Sposi - Caratteristiche demografiche;Provinciale
+24_84;Matrimoni - Indicatori;Provinciale
+25_326;Indicatori di fecondità;Provinciale
+25_74;Nati vivi;Comunale
+25_944;Tavole di fecondità per ordine di nascita;Regionale
+26_29;Decessi;Provinciale
+26_295;Tavole di mortalità;Provinciale
+27_467;Separazioni - Caratteristiche demografiche;Regionale
+27_468;Separazioni - Caratteristiche socio-professionali;Regionale
+27_469;Separazioni - Caratteristiche e figli minori affidati;Regionale
+27_470;Divorzi - Caratteristiche demografiche;Regionale
+27_474;Separazioni - Indicatori;Regionale
+27_475;Divorzi - Caratteristiche socio-professionali;Regionale
+27_945;Divorzi - Caratteristiche e figli minori affidati;Regionale
+27_946;Divorzi - Indicatori;Regionale
+27_349;Separazioni - Indicatori 2008-2014;Regionale
+27_355;Divorzi - Indicatori 2008-2014;Regionale
+27_384;Separazioni - Caratteristiche demografiche 2008-2014;Regionale
+27_385;Divorzi - Caratteristiche demografiche 2008-2014;Regionale
+27_731;Separazioni - caratteristiche e figli minori affidati 2008-2014;Regionale
+27_748;Separazioni - Caratteristiche socio-professionali 2008-2014;Regionale
+27_749;Divorzi - Caratteristiche socio-professionali 2008-2014;Regionale
+27_814;Divorzi - Caratteristiche e figli minori affidati 2008-2014;Regionale
+28_185;Migrazioni (Trasferimenti di residenza);Provinciale
+29_316;Stranieri residenti - Bilancio;Comunale
+29_317;Stranieri residenti al 1° gennaio - Cittadinanza;Comunale
+29_348;Permessi di soggiorno dei cittadini non comunitari;Provinciale
+29_7;Stranieri residenti al 1° gennaio;Comunale
+29_849;Acquisizioni di cittadinanza;Provinciale
+29_956;Stranieri residenti e condizioni di vita;Areale
+164_164;Popolazione residente ricostruita - Anni 2002-2019;Comunale
+165_889;Previsioni della popolazione - Anni 2018-2065;Regionale
+30_264;Fiducia dei consumatori;Areale
+30_1008;Reddito delle persone fisiche (Irpef) - comuni;Comunale
+31_739;Spese per consumi;Regionale
+31_124;Spesa media mensile familiare;Regionale
+31_163;Comportamento di spesa delle famiglia;Areale
+31_199;Omogeneità della spesa per consumi regionale;Regionale
+31_206;Quinto di spesa della famiglia;Regionale
+31_213;famiglie che hanno effettuato la spesa per alcune voci di spesa;Areale
+31_214;Dettaglio della spesa effettiva;Areale
+32_221;Omogeneità del reddito regionale;Regionale
+32_223;Famiglie per fonte di reddito;Regionale
+32_292;Reddito netto;Regionale
+32_38;Quinto di reddito equivalente;Regionale
+33_179;Affollamento nell'abitazione;Regionale
+33_225;Spesa per l'abitazione;Regionale
+33_290;Titolo di godimento dell'abitazione (in affitto o di proprietà);Regionale
+33_4;Abitazione danneggiata, umida o poco luminosa;Regionale
+33_350;Spesa per l'abitazione delle famiglie con componenti stranieri;Areale
+34_727;Povertà nuove serie;Regionale
+34_215;Famiglie con pagamenti arretrati;Areale
+34_216;Famiglie che non riescono a risparmiare o a far fronte a spese impreviste;Regionale
+34_217;Famiglie che considerano un carico pesante alcune spese per l'abitazione o il rimborso di debiti;Areale
+34_218;Famiglie che non possono permettersi alcuni beni durevoli;Areale
+34_219;Famiglie che hanno difficoltà nel pagamento di alcune spese;Areale
+34_220;Famiglie per reddito minimo per arrivare a fine mese senza difficoltà;Areale
+34_226;Famiglie per capacità di arrivare a fine mese;Regionale
+34_280;Famiglie che non possono permettersi alcune spese;Areale
+498_1104;Persone a rischio povertà o esclusione sociale;Areale
+34_178;Incidenza di povertà assoluta familiare;Nazionale
+34_198;Incidenza di povertà relativa familiare;Regionale
+34_201;Indicatori di povertà assoluta;Nazionale
+34_202;Indicatori di povertà relativa;Nazionale
+34_204;Intensità di povertà assoluta familiare;Nazionale
+34_205;Intensità di povertà relativa familiare;Nazionale
+34_211;Soglia di povertà assoluta;Areale
+34_212;Soglia di povertà relativa;Nazionale
+41_269;Incidenti stradali con lesioni alle persone;Provinciale
+41_287;Indicatori di incidentalità stradale;Provinciale
+41_288;Veicoli - Pubblico registro automobilistico;Provinciale
+41_983;Incidenti, morti e feriti - comuni;Comunale
+41_993;Veicoli - Pubblico registro automobilistico - comuni;Comunale
+42_210;Interruzioni volontarie della gravidanza - Migrazione;Provinciale
+42_320;Aborti spontanei - dimissioni rispetto al luogo di nascita della donna;Provinciale
+42_324;Aborti spontanei - dimissioni rispetto al luogo di residenza della donna;Provinciale
+42_325;Aborti spontanei - dimissioni rispetto al luogo dell'evento;Provinciale
+42_70;Interruzioni volontarie della gravidanza - Caratteristiche della donna;Provinciale
+42_1108;Interruzioni volontarie della gravidanza caratteristiche dell'evento;Provinciale
+43_236;Strutture sanitarie per l'assistenza di base;Regionale
+43_237;Strutture sanitarie distrettuali;Regionale
+43_283;Dimissioni ospedaliere per disturbi psichici rispetto al luogo di residenza;Provinciale
+43_284;Dimissioni per disturbi psichici rispetto al luogo di dimissione;Provinciale
+43_339;Dimissioni per acuti e per cittadinanza del paziente;Provinciale
+43_495;Istituti di cura;Provinciale
+43_967;Istituti di cura;Regionale
+43_973;Personale sanitario;Regionale
+43_98;Visite mediche e accertamenti diagnostici;Regionale
+43_994;Istituti di cura - comuni;Comunale
+43_1016;Assistenza sanitaria di base e strutture sanitarie residenziali e semiresidenziali;Regionale
+39_57;Cause multiple di morte;Regionale
+39_1005;Suicidi - popolazione di 15 anni e oltre;Regionale
+46_813;Pensioni;Provinciale
+47_850;Servizi socio-educativi per la prima infanzia;Comunale
+47_940;Interventi e servizi sociali dei comuni;Comunale
+49_23;Presidi residenziali socio-assistenziali (serie interrotte);Regionale
+49_37;Presidi residenziali socio-assistenziali e socio-sanitari;Regionale
+49_62;Ospiti dei presidi residenziali socio-assistenziali e socio-sanitari;Regionale
+46_812;Pensionati;Provinciale
+52_607;Giovani dai 18 ai 24 anni d'età che abbandonano prematuramente gli studi;Regionale
+52_912;Popolazione 15 anni e oltre per titolo di studio;Regionale
+52_1044;Scuole;Provinciale
+158_149;Scuola dell'infanzia;Provinciale
+158_150;Scuola primaria;Provinciale
+158_151;Scuola secondaria di primo grado;Provinciale
+158_260;Scuola secondaria di secondo grado;Provinciale
+56_188;Docenti universitari;Nazionale
+56_189;Indicatori sull'università;Regionale
+56_190;Laureati;Regionale
+56_258;Immatricolati;Regionale
+56_259;Iscritti all'università;Regionale
+56_1045;Iscritti all'università - comune dell'ateneo;Comunale
+56_1046;Iscritti all'università - comune di residenza;Comunale
+56_1135;Docenti universitari;Nazionale
+56_77;Servizi per gli alunni con disabilità;Provinciale
+159_17;Alunni con disabilità;Regionale
+159_18;Scuole con alunni con disabilità e figure per l'integrazione;Regionale
+159_19;Scuole con alunni con sordità e presenza comunicatori;Regionale
+392_584;Dottorati - caratteristiche socio-demografiche e curriculum;Nazionale
+392_585;Dottorati - retribuzione e orario di lavoro;Nazionale
+392_586;Dottorati - mobilità territoriale;Nazionale
+392_636;Dottorati - condizione occupazionale;Areale
+392_708;Dottorati - ricerca di lavoro e soddisfazione;Nazionale
+612_933;Laureati - caratteristiche socio-demografiche e curriculum;Nazionale
+612_937;Laureati - ricerca di lavoro;Nazionale
+612_939;Laureati - condizione occupazionale;Regionale
+613_934;Diplomati - caratteristiche socio-demografiche e curriculum;Regionale
+613_935;Diplomati - condizione occupazionale e retribuzione;Regionale
+613_936;Diplomati - ricerca di lavoro;Regionale
+65_130;Internet: accesso e tipo di utilizzo;Regionale
+66_195;Musei ed istituzioni similari;Regionale
+66_3;Archivi di stato;Regionale
+66_41;Biblioteche pubbliche statali;Regionale
+66_86;Musei e istituti similari;Regionale
+66_89;Servizi di musei e istituti similari;Regionale
+66_90;Totale visitatori di musei e istituti similari;Regionale
+60_1004;Musei ed istituzioni similari - comuni;Comunale
+60_1166;Opere librarie pubblicate;Regionale
+68_161;Persone andate e non andate in vacanza;Nazionale
+68_265;Spesa per viaggi in alloggi a pagamento;Nazionale
+68_338;Visite in giornata (escursioni);Nazionale
+68_356;Persone che hanno viaggiato;Areale
+68_357;Pernottamenti in viaggio;Regionale
+68_697;Viaggi per motivo;Nazionale
+68_698;Viaggi e loro caratteristiche;Regionale
+68_699;Viaggi per caratteristiche del viaggiatore;Areale
+68_702;Viaggi e pernottamenti - Serie ricostruite 1997-2013;Nazionale
+68_359;Viaggi per caratteristiche del viaggiatore;Nazionale
+68_365;Viaggi per motivo del viaggio;Nazionale
+68_370;Persone che non hanno viaggiato per vacanza (dati trimestrali);Nazionale
+68_371;Persone che hanno viaggiato (dati trimestrali);Nazionale
+68_380;Viaggi per caratteristiche del viaggio;Regionale
+68_381;Pernottamenti in viaggio;Regionale
+72_155;Procedimenti civili;Nazionale
+72_158;Procedimenti civili - lavoro, previdenza e assistenza obbligatorie;Nazionale
+73_160;Procedimenti penali;Nazionale
+73_173;Detenuti adulti presenti nelle carceri italiane;Regionale
+73_230;Autori e vittime dei delitti denunciati dalle forze di polizia all' autorità giudiziaria;Regionale
+73_342;Segnalazioni relative a persone denunciate e arrestate o fermate dalle forze di polizia;Provinciale
+73_436;Procedimenti e reati al momento della decisione del PM - minori;Regionale
+73_440;Procedimenti e reati al momento della decisione del PM - adulti;Provinciale
+73_58;Condannati con sentenza irrevocabile - Caratteristiche delle sentenze;Regionale
+73_59;Condannati con sentenza irrevocabile - Caratteristiche demografiche;Regionale
+73_67;Delitti denunciati dalle forze di polizia all'autorità giudiziaria;Provinciale
+73_1071;Persone indagate presso le procure - adulti;Regionale
+73_1072;Persone indagate presso le procure - minori;Regionale
+74_171;Procedimenti di giustizia amministrativa;Regionale
+74_172;Decisioni di giustizia amministrativa;Regionale
+76_177;Protesti;Provinciale
+77_47;Atti notarili;Nazionale
+77_68;Convenzioni contenute negli atti notarili;Nazionale
+78_1112;Donne che hanno subito violenza - caratteristiche demografiche e abitudini;Regionale
+78_1114;Utenti che si rivolgono al 1522 (numero antiviolenza e stalking);Regionale
+78_1121;Vittime che si rivolgono al 1522 (numero antiviolenza e stalking);Regionale
+33_291;Inquinamento, criminalità e rumore nella zona in cui si vive;Regionale
+82_87;Aspetti della vita quotidiana - Famiglie;Regionale
+83_63;Aspetti della vita quotidiana;Regionale
+83_85;Aspetti della vita quotidiana - Persone;Regionale
+174_321;Attività quotidiane;Regionale
+174_65;Distribuzione del carico di lavoro nelle coppie;Regionale
+174_66;Tempo trascorso da solo o con altri;Areale
+174_80;Attività quotidiane - persone in coppia;Regionale
+174_82;Luoghi frequentati;Regionale
+85_170;Volontariato in organizzazioni;Nazionale
+85_83;Volontariato con o senza organizzazioni;Regionale
+91_963;Sistema dei conti della sanità;Nazionale
+93_48;Conti della branca agricoltura, silvicoltura e pesca;Regionale
+92_504;Principali aggregati annuali di Contabilità Nazionale;Nazionale
+92_505;Sequenza dei conti;Nazionale
+92_506;Prodotto interno lordo e principali componenti;Nazionale
+92_507;Occupazione regolare, irregolare e popolazione;Nazionale
+92_143;Principali aggregati per branca di attività - (Nace Rev.1.1) - edizioni precedenti ottobre 2011;Nazionale
+284_103;Principali aggregati per branca di attività (Nace Rev.2) - edizioni ottobre 2011 - marzo 2014;Nazionale
+284_104;Valori pro capite - edizioni ottobre 2011 - marzo 2014;Nazionale
+284_159;Prodotto interno lordo e principali componenti - edizioni fino a marzo 2014;Nazionale
+284_238;Investimenti fissi lordi, stock di capitale e ammortamenti per tipo di investimento e branca proprietaria (Nace Rev.1.1) - edizioni precedenti ottobre 2011;Nazionale
+284_240;Spesa per consumi finali delle famiglie - edizioni fino a marzo 2014;Nazionale
+284_249;Investimenti - edizioni fino a marzo 2014;Nazionale
+284_252;Sequenza dei conti - edizioni fino a marzo 2014;Nazionale
+284_302;Investimenti fissi lordi, stock di capitale e ammortamenti per tipo di investimento e branca proprietaria (Nace Rev.2) - edizioni ottobre 2011 - marzo 2014;Nazionale
+284_9;Occupazione regolare ed irregolare - edizioni ottobre 2011 - marzo 2014;Nazionale
+730_1006;Sequenza dei conti - edizioni ottobre 2014 - aprile 2019;Nazionale
+730_1047;Prodotto interno lordo e principali componenti - edizioni ottobre 2014 - aprile 2019;Nazionale
+730_1048;Principali aggregati annnuali di contabilità nazionale - edizioni ottobre 2014 - aprile 2019;Nazionale
+730_1049;Occupazione regolare, irregolare e popolazione - edizioni ottobre 2014 - aprile 2019;Nazionale
+163_156;Conto economico delle risorse e degli impieghi e contributi alla crescita del Pil;Nazionale
+163_184;Prodotto interno lordo e principali componenti;Nazionale
+163_24;Principali aggregati trimestrali di Contabilità Nazionale;Nazionale
+163_144;Aggregati dei conti per branca di attività (NACE Rev.1.1) - edizione settembre 2011;Nazionale
+163_241;Spesa per consumi finali delle famiglie - edizioni fino ad agosto 2014;Nazionale
+163_246;Costi e margini per branca di attività (NACE Rev.1.1) - edizione settembre 2011;Nazionale
+163_247;Prodotto interno lordo lato produzione - edizioni fino ad agosto 2014;Nazionale
+163_250;Investimenti fissi lordi - edizioni fino ad agosto 2014;Nazionale
+163_253;Conto economico delle risorse e degli impieghi - edizioni fino ad agosto 2014;Nazionale
+163_257;Occupazione per branca di attività (NACE Rev.1.1) - edizione settembre 2011;Nazionale
+163_296;Aggregati dei conti per branca di attività (NACE Rev.2) - edizioni dicembre 2011 - agosto 2014;Nazionale
+163_299;Costi e margini per branca di attività (NACE Rev.2) - edizioni dicembre 2011 - giugno 2014;Nazionale
+163_300;Occupazione per branca di attività (NACE Rev.2) - edizioni dicembre 2011 - giugno 2014;Nazionale
+285_245;Contributi alla crescita del PIL - edizioni fino ad agosto 2014;Nazionale
+732_1051;Conto economico delle risorse e degli impieghi e contributi alla crescita del Pil - edizioni ottobre 2014 - agosto 2019;Nazionale
+732_1052;Prodotto interno lordo e principali componenti - edizioni ottobre 2014 - agosto 2019;Nazionale
+732_1053;Principali aggregati trimestrali di Contabilità Nazionale - edizioni ottobre 2014 - agosto 2019;Nazionale
+732_1054;Occupazione per branca di attività - edizioni ottobre 2014 - agosto 2019;Nazionale
+93_379;Occupazione regolare, irregolare e popolazione;Provinciale
+93_382;Sequenza dei conti;Regionale
+93_498;Prodotto interno lordo lato produzione;Regionale
+93_500;Principali aggregati territoriali di Contabilità Nazionale;Provinciale
+93_1095;Reddito disponibile delle famiglie nelle regioni italiane;Regionale
+93_209;Aggregati dei conti per branca di attività (NACE Rev.1.1);Regionale
+93_239;Investimenti fissi lordi per branca proprietaria (NACE Rev.1.1);Regionale
+93_256;Occupazione per branca di attività (NACE Rev.1.1);Regionale
+93_303;Investimenti fissi lordi per branca proprietaria (NACE Rev.2);Regionale
+270_242;Spesa per consumi finali delle famiglie;Regionale
+270_243;Spesa per consumi finali della Pa;Regionale
+270_248;Prodotto interno lordo lato produzione;Regionale
+270_254;Sequenza dei conti;Regionale
+270_255;Valori pro capite;Regionale
+270_298;Aggregati dei conti per branca di attività (NACE Rev.2);Provinciale
+270_301;Occupazione per branca di attività (NACE Rev.2);Provinciale
+396_61;Reddito disponibile delle famiglie;Regionale
+737_1082;Sequenza dei conti - edizioni ottobre 2014 - dicembre 2018;Regionale
+737_1083;Prodotto interno lordo lato produzione - edizioni ottobre 2014 - dicembre 2018;Regionale
+737_1084;Principali aggregati territoriali di Contabilità nazionale - edizioni ottobre 2014 - dicembre 2018;Provinciale
+737_1087;Occupazione regolare, irregolare e popolazione - edizioni ottobre 2014 - dicembre 2018;Provinciale
+737_1093;Reddito disponibile delle famiglie nelle regioni italiane - edizioni novembre 2015 - dicembre 2018;Regionale
+94_805;Occupazione per branca di attività;Nazionale
+94_1063;Stock di attività non finanziarie e sequenza dei conti per settore istituzionale;Nazionale
+94_251;Sequenza dei conti - edizioni fino a settembre 2015;Nazionale
+94_335;Occupazione per branca di attività - edizioni marzo 2012 e marzo 2013;Nazionale
+733_1055;Sequenza dei conti e stock di attività non finanziarie, per settore istituzionale - edizioni ottobre 2015 - aprile 2019;Nazionale
+733_1056;Occupazione per branca di attività - edizioni ottobre 2014 - aprile 2019;Nazionale
+97_187;Emissioni atmosferiche NAMEA (NACE Rev.2);Nazionale
+97_26;Gettito delle imposte ambientali;Nazionale
+97_334;Conti dei flussi di materia;Nazionale
+97_953;Spese per la protezione dell'ambiente;Nazionale
+97_1027;Conti dei flussi fisici di energia (PEFA);Nazionale
+97_1028;Conti dei beni e servizi ambientali;Nazionale
+97_79;Emissioni atmosferiche NAMEA (NACE Rev.1.1);Nazionale
+97_932;Conti dell'impiego di energia;Nazionale
+669_964;Gettito delle imposte ambientali;Nazionale
+669_967;Emissioni atmosferiche NAMEA (NACE Rev. 2) versione 2011;Nazionale
+669_1073;Gettito delle imposte ambientali versione 2014;Nazionale
+669_1080;Emissioni atmosferiche NAMEA (NACE Rev. 2) versione 2014;Nazionale
+669_1081;Conti dei flussi fisici di energia (PEFA) versione 2014;Nazionale
+669_1113;Spese per la protezione dell'ambiente versione 2014;Nazionale
+669_1116;Conti dei flussi di materia versione 2014;Nazionale
+669_1119;Conti dei beni e servizi ambientali versione 2014;Nazionale
+162_633;Sequenza dei conti trimestrali per settore istituzionale - Conti versione 2014;Nazionale
+395_344;Sequenza dei conti trimestrali per settore istituzionale - Conti versione 2011;Nazionale
+162_1058;Sequenza dei conti trimestrali per settore istituzionale - Conti versione 2014;Nazionale
+162_1064;Sequenza dei conti trimestrali per settore istituzionale;Nazionale
+98_197;Misure di produttività;Nazionale
+98_1066;Misure di produttività - Conti versione 2014;Nazionale
+98_1067;Misure di produttività - Conti versione 2011;Nazionale
+95_42;Conto trimestrale;Nazionale
+95_815;Conto annuale per sottosettore;Nazionale
+95_94;Uscite annuali per sottosettore;Nazionale
+734_1060;Conto annuale - edizioni fino ad aprile 2019;Nazionale
+734_1061;Uscite annuali per sottosettore - edizioni fino ad aprile 2019;Nazionale
+97_366;Conti della Protezione sociale;Nazionale
+96_1068;Conti della Protezione sociale versione 2014;Nazionale
+96_1069;Conti della Protezione sociale versione 2011;Nazionale
+760_1140;Sistema dei conti della sanità - versione 2014;Nazionale
+750_1117;Conti della branca agricoltura, silvicoltura e pesca - versione 2014;Regionale
+750_1118;Conti della branca agricoltura, silvicoltura e pesca - versione 2011;Regionale
+101_12;Prezzi dei prodotti agricoli;Nazionale
+101_959;Latte e prodotti lattiero caseari;Regionale
+101_961;Consistenze degli allevamenti;Regionale
+101_962;Import export di bestiame;Nazionale
+101_965;Agriturismo;Provinciale
+101_1015;Coltivazioni;Provinciale
+101_1030;Prodotti agroalimentari di qualità DOP/IGP e STG;Provinciale
+101_1033;Macellazioni;Regionale
+101_1039;Agriturismo - comuni;Comunale
+101_1077;Prodotti di qualità DOP/IGP e STG: operatori - dati comunali;Comunale
+101_148;Risultati economici delle aziende agricole;Regionale
+102_974;Struttura delle aziende agricole;Regionale
+101_22;Fitosanitari;Provinciale
+104_466;Fertilizzanti;Provinciale
+111_111;Indicatori permessi di costruire;Nazionale
+111_263;Fiducia delle imprese manifatturiere;Areale
+111_40;Fiducia delle imprese costruzioni;Nazionale
+114_191;Indice dei nuovi ordinativi e del fatturato dei prodotti industriali;Nazionale
+115_168;Produzione industriale in quantità e valore;Nazionale
+115_333;Indice della produzione industriale;Nazionale
+115_362;Indice della produzione nelle costruzioni;Nazionale
+117_262;Fiducia delle imprese servizi;Areale
+117_266;Fiducia delle imprese del commercio;Nazionale
+119_367;Indice del fatturato dei servizi;Nazionale
+120_337;Indice delle vendite del commercio al dettaglio;Nazionale
+121_329;Trasporto merci su strada per tipo di trasporto;Nazionale
+121_330;Trasporto merci su strada;Regionale
+121_393;Trasporto marittimo;Regionale
+117_1035;Servizi bancari - dati comunali;Comunale
+117_1057;Trasporto ferroviario;Nazionale
+122_54;Esercizi ricettivi;Comunale
+123_712;Indicatori di bilancio e dati sul personale delle unità istituzionali;
+123_713;Numero e tipo di unità istituzionali;Regionale
+123_840;Attività e organizzazione delle unità istituzionali;Regionale
+124_229;Stato patrimoniale delle camere di commercio - euro;Nazionale
+124_231;Entrate delle unità istituzionali locali (euro);Nazionale
+124_232;Spese delle unità istituzionali locali (euro);Nazionale
+124_322;Conto economico delle camere di commercio - euro;Nazionale
+124_722;Conto economico delle Asl, aziende ospedaliere, aziende ospedaliere universitarie, policlinici e IRCCS (migliaia di euro);Regionale
+124_730;Entrate delle unità istituzionali centrali e locali;Nazionale
+124_732;Spese delle unità istituzionali centrali e locali;Nazionale
+124_1157;Conto economico delle università, politecnici ed istituti di istruzione universitaria (euro);Nazionale
+160_233;Enti previdenziali - numero di dipendenti;Regionale
+160_234;Enti previdenziali - spese (migliaia di euro);Regionale
+160_235;Enti previdenziali - entrate (migliaia di euro);Regionale
+160_753;Enti nazionali di previdenza e assistenza sociale S13 - numero di dipendenti;Regionale
+160_754;Enti nazionali di previdenza e assistenza sociale S13 - entrate (migliaia di euro);Regionale
+160_755;Enti nazionali di previdenza e assistenza sociale S13 - spese (migliaia di euro);Regionale
+139_176;Importazioni ed esportazioni per paese e merce Ateco 2007;Regionale
+143_222;Indice dei prezzi all'importazione - dati mensili;Nazionale
+143_497;Prezzi delle abitazioni (Ipab);Areale
+145_360;Prezzi alla produzione dell'industria;Nazionale
+145_361;Costi di costruzione;Nazionale
+145_376;Prezzi alla produzione dei servizi;Nazionale
+143_1043;Indici dei prezzi alla produzione delle costruzioni;Nazionale
+167_742;Nic - medie annue dal 2016 (base 2015);Provinciale
+167_743;Nic - pesi dal 2016;Regionale
+167_744;Nic - mensili dal 2016 (base 2015);Provinciale
+144_125;Nic - annuali sino al 2010;Provinciale
+144_126;Nic - pesi sino al 2010;Nazionale
+144_180;Nic - mensili sino al 2010;Provinciale
+167_33;Nic - mensili dal 2011 al 2015 (base 2010);Provinciale
+167_34;Nic - medie annue dal 2011 al 2015 (base 2010);Provinciale
+167_35;Nic - pesi dal 2011 al 2015;Regionale
+168_6;Ipca - pesi dal 2001;Nazionale
+168_756;Ipca - mensili a tassazione costante (base 2015);Nazionale
+168_757;Ipca - medie annue a tassazione costante (base 2015);Nazionale
+168_758;Ipca - medie annue dal 2001 (base 2015);Nazionale
+168_760;Ipca - mensili dal 2001 (base 2015);Nazionale
+168_2;Ipca - mensili e trimestrali dal 2001 al 2015 (base 2005);Nazionale
+168_261;Ipca - medie annue a tassazione costante (base 2005);Nazionale
+168_306;Ipca - mensili a tassazione costante (base 2005);Nazionale
+168_5;Ipca - medie annue dal 2001 al 2015 (base 2005);Nazionale
+169_745;Foi - mensili dal 2016 (base 2015);Provinciale
+169_746;Foi - medie annue dal 2016 (base 2015);Provinciale
+169_747;FOI - Pesi dal 2016;Nazionale
+144_107;Foi - pesi sino al 2010;Nazionale
+144_110;Foi - mensili sino al 2010 (base 1995);Provinciale
+144_118;Foi - medie annue sino al 2010 (base 1995);Provinciale
+169_15;Foi - mensili dal 2011 al 2015 (base 2010);Provinciale
+169_28;Foi - medie annue dal 2011 al 2015 (base 2010);Provinciale
+169_30;FOI - Pesi dal 2011 al 2015;Nazionale
+150_105;Occupati per ore settimanali lavorate e numero di ore settimanali lavorate procapite;Areale
+150_872;Tasso di occupazione - dati mensili;Nazionale
+150_873;Forze lavoro - dati mensili;Nazionale
+150_875;Occupati - dati mensili;Nazionale
+150_876;Tasso di attività - dati mensili;Nazionale
+150_880;Tasso di attività - dati trimestrali destagionalizzati;Nazionale
+150_881;Forze di lavoro - dati trimestrali destagionalizzati;Nazionale
+150_882;Occupati - dati trimestrali destagionalizzati;Nazionale
+150_883;Tasso di occupazione - dati trimestrali destagionalizzati;Nazionale
+150_908;Forze di lavoro;Provinciale
+150_915;Tasso di occupazione;Provinciale
+150_916;Tasso di attività;Provinciale
+150_938;Occupati (migliaia);Provinciale
+151_874;Tasso di disoccupazione - dati mensili;Nazionale
+151_877;Disoccupati - dati mensili;Nazionale
+151_884;Tasso di disoccupazione - dati trimestrali destagionalizzati;Nazionale
+151_885;Disoccupati - dati trimestrali destagionalizzati;Nazionale
+151_914;Tasso di disoccupazione;Provinciale
+151_929;Disoccupati;Provinciale
+152_878;Tasso di inattività - dati mensili;Nazionale
+152_879;Inattivi - dati mensili;Nazionale
+152_886;Tasso di inattività - dati trimestrali destagionalizzati;Nazionale
+152_887;Inattivi - dati trimestrali destagionalizzati;Nazionale
+152_913;Tasso di inattività;Provinciale
+152_928;Inattivi;Provinciale
+172_926;Indicatori complementari;Provinciale
+172_931;Neet (giovani non occupati e non in istruzione e formazione);Regionale
+149_577;Posizioni lavorative alle dipendenze;Nazionale
+534_49;Ore lavorate - Imprese con almeno 500 dipendenti;Nazionale
+534_50;Posizioni lavorative - Imprese con almeno 500 dipendenti;Nazionale
+534_1037;Ore lavorate - Imprese con dipendenti;Nazionale
+534_1038;Posti vacanti - Imprese con dipendenti;Nazionale
+154_278;Imprese ed enti pubblici con almeno 10 dipendenti;Areale
+154_373;Indicatori - Imprese con dipendenti;Nazionale
+536_193;Imprese con almeno 500 dipendenti;Nazionale
+155_374;Retribuzioni lorde - Imprese con dipendenti;Nazionale
+535_194;Retribuzioni lorde - Imprese con almeno 500 dipendenti;Nazionale
+149_319;Tensione contrattuale;Nazionale
+155_274;Retribuzioni contrattuali nella Pubblica amministrazione;Nazionale
+155_318;Retribuzioni contrattuali per tipo di contratto;Nazionale
+155_358;Retribuzioni contrattuali per settore economico (Ateco);Nazionale
+532_930;Popolazione per condizione professionale;Regionale
+723_1036;Famiglie - condizione occupazionale;Regionale
+723_1040;Individui per ruolo in famiglia - condizione occupazionale;Areale
+723_1041;Coppie - condizione occupazionale;Regionale
+533_957;Retribuzioni orarie dei dipendenti del settore privato;Provinciale
+729_995;Superfici esposte a rischio idrogeologico;Comunale
+729_1050;Superfici territoriali;Comunale
+121_331;Trasporto Aereo;Nazionale
+46_572 ;Pensioni serie interrotte 2008-2013;
+153_369;Posti vacanti - Imprese con almeno 10 dipendenti;
+46_573;Pensionati serie interrotte 2008-2013;
+149_368;Ore lavorate - Imprese con almeno 10 dipendenti;
+61_69; Opere librarie pubblicate;
+78_71;Donne che hanno subito violenza dal partner o ex-partner;
+78_72;Donne che hanno subito violenza da un uomo;
+163_88;???;
+175_634;Reddito disponibile delle famiglie;
+283_138; Ricostruzione statistica delle serie regionali di popolazione del periodo 1/1/2002-1/1/2014;
