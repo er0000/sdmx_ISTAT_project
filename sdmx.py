@@ -21,7 +21,7 @@ import time
 #now = datetime.now()                     ##### ELIMINATO nella richiesta delle query mensili richiediamo sempre anno-12
 #current_month = now.month
 
-s=Service(ChromeDriverManager().install())
+s=Service(ChromeDriverManager(version="114.0.5735.90").install())
 
 logger = get_logger(path = conf['db'][conf['env']]['logger_path'])
 
